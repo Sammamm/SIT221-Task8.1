@@ -1,0 +1,15 @@
+D:\College\Sem3\SIT221\Task8.1\bin\Debug\net7.0\Task8.1.exe
+D:\College\Sem3\SIT221\Task8.1\bin\Debug\net7.0\Task8.1.deps.json
+D:\College\Sem3\SIT221\Task8.1\bin\Debug\net7.0\Task8.1.runtimeconfig.json
+D:\College\Sem3\SIT221\Task8.1\bin\Debug\net7.0\Task8.1.dll
+D:\College\Sem3\SIT221\Task8.1\bin\Debug\net7.0\Task8.1.pdb
+D:\College\Sem3\SIT221\Task8.1\obj\Debug\net7.0\Task8.1.csproj.AssemblyReference.cache
+D:\College\Sem3\SIT221\Task8.1\obj\Debug\net7.0\Task8.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\Sem3\SIT221\Task8.1\obj\Debug\net7.0\Task8.1.AssemblyInfoInputs.cache
+D:\College\Sem3\SIT221\Task8.1\obj\Debug\net7.0\Task8.1.AssemblyInfo.cs
+D:\College\Sem3\SIT221\Task8.1\obj\Debug\net7.0\Task8.1.csproj.CoreCompileInputs.cache
+D:\College\Sem3\SIT221\Task8.1\obj\Debug\net7.0\Task8.1.dll
+D:\College\Sem3\SIT221\Task8.1\obj\Debug\net7.0\refint\Task8.1.dll
+D:\College\Sem3\SIT221\Task8.1\obj\Debug\net7.0\Task8.1.pdb
+D:\College\Sem3\SIT221\Task8.1\obj\Debug\net7.0\Task8.1.genruntimeconfig.cache
+D:\College\Sem3\SIT221\Task8.1\obj\Debug\net7.0\ref\Task8.1.dll
